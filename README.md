@@ -1,2 +1,3 @@
 # taxAnalysis
-this is tax analysis code where you get total tax per companies invoice_id
+this is a totaltaxamount analysis code where you get the total tax per company invoice_id
+in snowflake
